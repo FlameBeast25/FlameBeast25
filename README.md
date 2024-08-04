@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Anish! 👋</h1>
+<h1 align="center">Hello! 👋</h1>
 
 ## About Me
 - 💻 Developer and Video Editor @ [Overshock Games](https://www.overshock.games/)
