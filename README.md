@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Anish! 👋</h1>
 
-<!--
-**FlameBeast25/FlameBeast25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 I love coding
+- 📍 Live in NA
+- 📹 YouTuber with a channel focussing on gaming
+- 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics
+- ⚡️ I love beta testing and exploring new technologies and applications
 
-Here are some ideas to get you started:
+## Projects
+- None ATM 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Languages: Python, Java, Javascript, HTML
