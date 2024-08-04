@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anish! 👋</h1>
 
 ## About Me
-- 💻 I love coding
+- 💻 Developer and Video Editor @ [Overshock Games](https://www.overshock.games/)
 - 📍 Live in NA
 - 📹 YouTuber with a channel focussing on gaming
 - 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics
