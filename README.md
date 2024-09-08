@@ -8,7 +8,8 @@
 - ⚡️ I love beta testing and exploring new technologies and applications
 
 ## Projects
-- None ATM 💪
+- Minecraft Server (Currently Paused)
+- Once Human Resources Website
 
 ## Technologies
 - Languages: Python, Java, Javascript, HTML
