@@ -3,7 +3,7 @@
 ## About Me
 - 💻 Developer and Video Editor @ [Overshock Games](https://www.overshock.games/)
 - 📍 Live in NA
-- 📹 YouTuber with a channel focussing on gaming
+- 📹 YouTuber with a channel focusing on gaming
 - 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics
 - ⚡️ I love beta testing and exploring new technologies and applications
 
